@@ -1,0 +1,51 @@
+body{
+  background:#67BACA;
+  
+}
+#h1Input{
+  text-align:center;
+  font-family:impact, sans-serif, serif;
+}
+img {
+
+width: 90px;
+
+height: 90px;
+
+float: left;
+
+}
+
+#idContainer {
+font-family:Georgia, Times, helvetica;
+display:block;
+margin:auto;
+border-radius:25px;  
+border: 5px solid black;
+background:#FF9F9F;
+height: 14em;
+width: 25em;
+box-shawdow:5px 5px 5px grey;
+}
+#postFullName{
+  text-align:center;
+  font:impact;
+  font-size:35px;
+  font-weight:bold;
+}
+#postAge{
+  text-align:left;
+  font-weight:450;
+}
+#postAddress{
+  text-align:left;
+  font-weight:450;
+}
+#postPhoneNumber{
+  text-align:left;
+  font-weight:450;
+}
+#address{
+  background:#FFF3A5;
+  font-weight:450;
+}
